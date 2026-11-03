@@ -10,18 +10,26 @@ Using Power BI, I developed an interactive dashboard featuring key performance i
 
 ## Table of Contents
 
-* Dashboard Preview
-* Introduction
-* Project Objectives
-* Dashboard Overview
-* Key Performance Indicators (KPIs)
-* Dashboard Analysis
-* Key Insights
-* Business Recommendations
-* Conclusion
-* Tools and Technologies
-* How to Interact with the Dashboard
-* Author
+1. [Dashboard Preview](#dashboard-preview)
+2. [Introduction](#introduction)
+3. [Project Objectives](#project-objectives)
+4. [Dashboard Overview](#dashboard-overview)
+
+   * [Key Performance Indicators (KPIs)](#1-key-performance-indicators-kpis)
+   * [Revenue by Location](#2-revenue-by-location)
+   * [Revenue by Status](#3-revenue-by-status)
+   * [Returned Orders by Month](#4-returned-orders-by-month)
+   * [Delivered Orders by Month](#5-delivered-orders-by-month)
+   * [Processed Orders by Category](#6-processed-orders-by-category)
+   * [Pending Orders by Location](#7-pending-orders-by-location)
+5. [Interactive Features](#interactive-features)
+6. [Key Business Insights](#key-business-insights)
+7. [Business Recommendations](#business-recommendations)
+8. [Conclusion](#conclusion)
+9. [Tools and Technologies](#tools-and-technologies)
+10. [How to Interact with the Dashboard](#how-to-interact-with-the-dashboard)
+11. [Repository Structure](#repository-structure)
+12. [Author](#author)
 
 ---
 
